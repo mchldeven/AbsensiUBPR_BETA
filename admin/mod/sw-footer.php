@@ -3,7 +3,7 @@
 } else {
 
 $mod = "home";$mod = htmlentities(@$_GET['mod']);
-// Get number
+
 function get_numbers() {
   for ($i = 1; $i <= 500; $i++) {yield $i;}
 }
@@ -15,7 +15,7 @@ function convert($size){
 echo'
   <footer class="main-footer">
     <div class="pull-right hidden-xs">
-    Redeveloped by <a href="https://ubpr.id" rel="dofollow" target="_blank">TEAM IT</a> - <a href="https://ubpr.co.id" rel="dofollow" target="_blank">UBPR 2022</a>
+    developed by <a href="https://ubpr.id" rel="dofollow" target="_blank">Universal BPR </a> - <a href="https://ubpr.co.id" rel="dofollow" target="_blank">2022</a>
     </div> <div style="display: none;"><a class="credits" href="https://s-widodo.com" rel="nofollow" target="_blank"></a></div>
      &copy;'.DATE('Y').' '.$site_name.'
   </footer>

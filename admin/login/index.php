@@ -68,7 +68,7 @@ else {
 ?>
 
     <footer class="text-muted text-center">
-      Developed by <a href="https://ubpr.co.id" rel="dofollow" target="_blank">TEAM IT </a> - <a href="https://ubpr.co.id" rel="dofollow" target="_blank">UBPR 2022</a><br/><div style="display: none;"><a class="credits" href="https://s-widodo.com" rel="nofollow" target="_blank"></a></div>
+      Developed by <a href="https://ubpr.co.id" rel="dofollow" target="_blank">Universal BPR  2022 </a> - <a href="https://ubpr.co.id" rel="dofollow" target="_blank">UBPR 2022</a><br/><div style="display: none;"><a class="credits" href="https://s-widodo.com" rel="nofollow" target="_blank"></a></div>
     </footer>
 
     <script src="../assets/js/jquery.min.js"></script>

@@ -1,7 +1,5 @@
 <?php  error_reporting(0);
-/* Admin Panel
-* (c)Mei 07, 2021 Corona
-*/
+
 @session_start();
 require_once'../library/sw-config.php';
 include_once '../library/sw-function.php';
@@ -11,7 +9,7 @@ if(empty($_SESSION['SESSION_USER']) && empty($_SESSION['SESSION_ID'])){
 
 else{
   require_once'./login/login_session.php';
-  //ob_start("minify_html");
+ 
   $dbhostsql      = DB_HOST;
   $dbusersql      = DB_USER;
   $dbpasswordsql  = DB_PASSWD;
